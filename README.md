@@ -1,4 +1,4 @@
-☁️ Event Announcement Website (Serverless AWS Project)
+Event Announcement Website (Serverless AWS Project)
 
 Overview
 
@@ -39,9 +39,7 @@ The frontend is hosted on Amazon S3, while AWS Lambda, API Gateway, and SNS hand
 
 ---
 
-## 🧠 System Design
-
-_Add your system design explanation here._
+## System Design
 
 You can describe:
 - Architecture decisions  
